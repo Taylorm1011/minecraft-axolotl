@@ -1,0 +1,50 @@
+#HText {
+    z-index: 1;
+    position: absolute;
+}
+
+
+header{
+ width: 100%;
+height: 300px;
+background-color: rgb(255, 150, 185);
+text-align: center;
+}
+#sec1{
+display: block;
+float: left;
+margin: 100px;
+width: 300px;
+height: 300px;
+background-color: rgb(255, 150, 185);
+}
+#sec2{
+display: block;
+float: right;
+margin: 100px;
+width: 700px;
+height: 500px;
+background-color: rgb(255, 150, 185);
+}
+
+#sec2 >h2, p{
+    text-align:center}
+
+#sec3{
+display: block;
+float: left;
+margin: ;
+
+height: 200 ;
+background-color:rgb(255, 150, 185)
+}
+
+footer{
+margin-top: 800px; 
+width: 100%;
+height: 300px;
+background-color: rgb(177, 217, 249);
+    }
+body {
+    background-color: rgb(254, 202, 220);
+  }
